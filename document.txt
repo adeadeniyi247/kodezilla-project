@@ -1,0 +1,36 @@
+Black:
+#333333
+#222831
+#252525
+#010101
+
+Grey:
+#393e46
+#f8f8f8
+#f2f4f6
+#fafafa
+#f7f7f7
+
+Icons:
+#ffffff
+
+Catchy:
+#e41749
+
+Blue:
+#323edd
+#beebe9
+#a1e6e3
+#a8d3da
+ 
+Fonts: 
+Headings: Poppins/Raleway/Roboto/Oswald
+Body fonts: Spartan
+Buttons: Roboto
+
+<link href="https://fonts.googleapis.com/css?family=Oswald|Poppins|Raleway|Roboto|Spartan&display=swap" rel="stylesheet">
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Spartan', sans-serif;
